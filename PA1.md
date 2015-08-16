@@ -154,6 +154,17 @@ g2 + geom_line(color = "blue") +
 
 ![](PA1_files/figure-html/unnamed-chunk-4-1.png) 
 
+```r
+top_n(ActivityPattern,1,meansteps)
+```
+
+```
+## Source: local data frame [1 x 2]
+## 
+##   interval meansteps
+## 1      835  206.1698
+```
+
 ## Inputing missing values
 
 ```r

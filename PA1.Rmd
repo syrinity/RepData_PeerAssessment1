@@ -59,6 +59,7 @@ g2 + geom_line(color = "blue") +
     labs(x = "Time of Day in Total Minutes Since Midnight", 
          y = "Average Steps",
          title = "Average Number of Steps for 5 Minute Intervals")
+top_n(ActivityPattern,1,meansteps)
 
 ```
 
