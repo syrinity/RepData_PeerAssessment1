@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1439703119920.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "887C9CBD",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "ActivityPattern",
+        "contentUrl" : "content?title=ActivityPattern&file=36d3f89f9e9e4a5583af3dff3b9c5e1e.htm",
+        "displayedObservations" : 288,
+        "displayedVariables" : 2,
+        "totalObservations" : 288,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

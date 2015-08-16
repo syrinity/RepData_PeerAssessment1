@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1439703054775.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F0245DB5",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "ActivityReplacedNA",
+        "contentUrl" : "content?title=ActivityReplacedNA&file=ae95d65268cc491f809f3b7543454f37.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 3,
+        "totalObservations" : "17568",
+        "variables" : "3"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

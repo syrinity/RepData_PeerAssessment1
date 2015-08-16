@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1439705899159.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A7B14556",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "WeekdayActivityPattern",
+        "contentUrl" : "content?title=WeekdayActivityPattern&file=f95f6170355a4726abf418c9c29a7e3c.htm",
+        "displayedObservations" : "576",
+        "displayedVariables" : 3,
+        "totalObservations" : "576",
+        "variables" : "3"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

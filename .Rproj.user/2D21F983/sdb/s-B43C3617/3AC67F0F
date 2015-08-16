@@ -1,0 +1,17 @@
+{
+    "contents" : "ActivityRemoveNA <- filter(ActivityData, !is.na(ActivityData$steps))\nSumStepsByDate <- ActivityRemoveNA %>% \n    group_by(date) %>% \n    summarize(totalsteps = sum(steps))\n",
+    "created" : 1439680128433.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2065867590",
+    "id" : "3AC67F0F",
+    "lastKnownWriteTime" : 1439679850,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
